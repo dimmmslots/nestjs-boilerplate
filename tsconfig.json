@@ -24,8 +24,8 @@
       "@prisma/*": [
         "prisma/*"
       ],
-      "@utils/*": [
-        "src/utils/*"
+      "@common/*": [
+        "src/common/*"
       ],
     }
   }
